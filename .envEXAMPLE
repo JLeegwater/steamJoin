@@ -1,0 +1,6 @@
+STEAM_PROFILE_URL=<Link to your steam profile>
+TINYURL_API_TOKEN=<Sign into tinyurl and get your api Token from https://tinyurl.com/app/settings/api>
+TINYURL_ALIAS=<what you want the link to show as>
+ERROR_PAGE=<if theres an error direct to this.(i use my steam profile link so its still usable if the bot is down)>
+STEAM_API_KEY=<Sign into steam and get API key from https://steamcommunity.com/dev/apikey>
+STEAM_ID64=<go to https://steamdb.info/calculator/ and enter you profile url or your steamID and it will show you STEAM_ID64 next to "SteamID">
